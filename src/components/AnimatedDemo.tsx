@@ -12,10 +12,10 @@ export const AnimatedDemo = () => {
 
   useEffect(() => {
     const timings = {
-      1: 1500,  // Scene 1: 1.5s
-      2: 2000,  // Scene 2: 2s
-      3: 2000,  // Scene 3: 2s
-      4: 1500,  // Scene 4: 1.5s
+      1: 3500,  // Scene 1: 3.5s
+      2: 4500,  // Scene 2: 4.5s
+      3: 3500,  // Scene 3: 3.5s
+      4: 2000,  // Scene 4: 2s
       5: 0,     // Scene 5: stays
     };
 
